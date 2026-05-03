@@ -69,3 +69,7 @@ src/
 ├── wavelengthToRgb.js # 파장 → RGB 변환 함수 (순수 함수)
 └── index.css          # 스타일
 ```
+
+## 라이선스
+
+[Apache License 2.0](./LICENSE)
